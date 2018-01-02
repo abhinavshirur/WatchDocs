@@ -1,0 +1,277 @@
+{"_id":{"$oid":"5a4a54f1b0ac88236436a88c"},"category":"arts, culture and entertainment"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a88d"},"category":"arts, culture and entertainment\u003eanimation"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a88e"},"category":"arts, culture and entertainment\u003earchaeology"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a88f"},"category":"arts, culture and entertainment\u003earchitecture"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a890"},"category":"arts, culture and entertainment\u003earts (general)"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a891"},"category":"arts, culture and entertainment\u003ecartoon"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a892"},"category":"arts, culture and entertainment\u003ecinema"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a893"},"category":"arts, culture and entertainment\u003eculture (general)"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a894"},"category":"arts, culture and entertainment\u003edance"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a895"},"category":"arts, culture and entertainment\u003eentertainment (general)"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a896"},"category":"arts, culture and entertainment\u003eentertainment (general)\u003eentertainment award"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a897"},"category":"arts, culture and entertainment\u003efashion"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a898"},"category":"arts, culture and entertainment\u003efashion\u003ejewelry"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a899"},"category":"arts, culture and entertainment\u003ehistory"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a89a"},"category":"arts, culture and entertainment\u003einternet"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a89b"},"category":"arts, culture and entertainment\u003elanguage"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a89c"},"category":"arts, culture and entertainment\u003eliterature"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a89d"},"category":"arts, culture and entertainment\u003eliterature\u003efiction"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a89e"},"category":"arts, culture and entertainment\u003eliterature\u003epoetry"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a89f"},"category":"arts, culture and entertainment\u003emusic"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8a0"},"category":"arts, culture and entertainment\u003emusic\u003eclassical music"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8a1"},"category":"arts, culture and entertainment\u003emusic\u003ecountry music"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8a2"},"category":"arts, culture and entertainment\u003emusic\u003efolk music"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8a3"},"category":"arts, culture and entertainment\u003emusic\u003ejazz music"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8a4"},"category":"arts, culture and entertainment\u003emusic\u003epopular music"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8a5"},"category":"arts, culture and entertainment\u003epainting"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8a6"},"category":"arts, culture and entertainment\u003ephotography"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8a7"},"category":"arts, culture and entertainment\u003eradio"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8a8"},"category":"arts, culture and entertainment\u003etelevision"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8a9"},"category":"arts, culture and entertainment\u003etheatre"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8aa"},"category":"crime, law and justice"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8ab"},"category":"crime, law and justice\u003ecrime"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8ac"},"category":"crime, law and justice\u003ecrime\u003ecomputer crime"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8ad"},"category":"crime, law and justice\u003ecrime\u003ehomicide"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8ae"},"category":"crime, law and justice\u003ecrime\u003eterrorism"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8af"},"category":"crime, law and justice\u003ecrime\u003etheft"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8b0"},"category":"crime, law and justice\u003ejudiciary (system of justice)"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8b1"},"category":"crime, law and justice\u003ejudiciary (system of justice)\u003ejudge"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8b2"},"category":"crime, law and justice\u003ejudiciary (system of justice)\u003elawyer"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8b3"},"category":"crime, law and justice\u003ejustice and rights\u003ecivil rights"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8b4"},"category":"crime, law and justice\u003elaws"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8b5"},"category":"crime, law and justice\u003elaws\u003ecivil"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8b6"},"category":"crime, law and justice\u003elaws\u003ecriminal"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8b7"},"category":"crime, law and justice\u003eprison"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8b8"},"category":"crime, law and justice\u003etrials\u003elitigation"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8b9"},"category":"crime, law and justice\u003etribunal"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8ba"},"category":"crime, law and justice\u003ewar crime"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8bb"},"category":"disaster and accident"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8bc"},"category":"disaster and accident\u003eaccident (general)"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8bd"},"category":"disaster and accident\u003edisaster (general)"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8be"},"category":"disaster and accident\u003edisaster (general)\u003enatural disasters"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8bf"},"category":"disaster and accident\u003eearthquake"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8c0"},"category":"disaster and accident\u003eemergency incident\u003eexplosion"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8c1"},"category":"disaster and accident\u003eflood"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8c2"},"category":"disaster and accident\u003emeteorological disaster"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8c3"},"category":"disaster and accident\u003emeteorological disaster\u003ewindstorms"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8c4"},"category":"disaster and accident\u003evolcanic eruption"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8c5"},"category":"economy, business and finance"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8c6"},"category":"economy, business and finance\u003eagriculture"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8c7"},"category":"economy, business and finance\u003eagriculture\u003earable farming"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8c8"},"category":"economy, business and finance\u003eagriculture\u003eforestry and timber"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8c9"},"category":"economy, business and finance\u003eagriculture\u003elivestock farming"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8ca"},"category":"economy, business and finance\u003ebusiness (general)"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8cb"},"category":"economy, business and finance\u003echemicals"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8cc"},"category":"economy, business and finance\u003echemicals\u003ebiotechnology"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8cd"},"category":"economy, business and finance\u003echemicals\u003einorganic chemical"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8ce"},"category":"economy, business and finance\u003echemicals\u003eorganic chemical"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8cf"},"category":"economy, business and finance\u003echemicals\u003esynthetic and plastic"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8d0"},"category":"economy, business and finance\u003ecompany information"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8d1"},"category":"economy, business and finance\u003ecompany information\u003ecorporations"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8d2"},"category":"economy, business and finance\u003ecompany information\u003emarketing"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8d3"},"category":"economy, business and finance\u003ecompany information\u003epatent, copyright and trademark"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8d4"},"category":"economy, business and finance\u003ecomputing and information technology"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8d5"},"category":"economy, business and finance\u003ecomputing and information technology\u003ehardware"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8d6"},"category":"economy, business and finance\u003ecomputing and information technology\u003enetworking"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8d7"},"category":"economy, business and finance\u003ecomputing and information technology\u003esecurity"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8d8"},"category":"economy, business and finance\u003ecomputing and information technology\u003esemiconductors and active components"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8d9"},"category":"economy, business and finance\u003ecomputing and information technology\u003esoftware"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8da"},"category":"economy, business and finance\u003econsumer goods"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8db"},"category":"economy, business and finance\u003econsumer goods\u003ebeverage"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8dc"},"category":"economy, business and finance\u003econsumer goods\u003eclothing"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8dd"},"category":"economy, business and finance\u003econsumer goods\u003efood"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8de"},"category":"economy, business and finance\u003econsumer goods\u003eretail"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8df"},"category":"economy, business and finance\u003eeconomy (general)"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8e0"},"category":"economy, business and finance\u003eeconomy (general)\u003eeconomic policy"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8e1"},"category":"economy, business and finance\u003eenergy and resource"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8e2"},"category":"economy, business and finance\u003eenergy and resource\u003ealternative energy"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8e3"},"category":"economy, business and finance\u003eenergy and resource\u003enatural resources (general)"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8e4"},"category":"economy, business and finance\u003eenergy and resource\u003enuclear power"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8e5"},"category":"economy, business and finance\u003eenergy and resource\u003ewaste management and pollution control"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8e6"},"category":"economy, business and finance\u003emanufacturing and engineering"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8e7"},"category":"economy, business and finance\u003emanufacturing and engineering\u003eaerospace"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8e8"},"category":"economy, business and finance\u003emanufacturing and engineering\u003eautomotive equipment"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8e9"},"category":"economy, business and finance\u003emedia"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8ea"},"category":"economy, business and finance\u003emedia\u003eadvertising"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8eb"},"category":"economy, business and finance\u003emedia\u003ebook"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8ec"},"category":"economy, business and finance\u003emedia\u003ecinema industry"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8ed"},"category":"economy, business and finance\u003emedia\u003emusic industry"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8ee"},"category":"economy, business and finance\u003emedia\u003enewspaper and magazine"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8ef"},"category":"economy, business and finance\u003emedia\u003etelevision industry"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8f0"},"category":"economy, business and finance\u003emetal and mineral"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8f1"},"category":"economy, business and finance\u003emetal and mineral\u003eiron and steel"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8f2"},"category":"economy, business and finance\u003eprocess industry"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8f3"},"category":"economy, business and finance\u003eprocess industry\u003efood"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8f4"},"category":"economy, business and finance\u003eprocess industry\u003etextile and clothing"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8f5"},"category":"economy, business and finance\u003etourism and leisure\u003ecasino and gambling"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8f6"},"category":"economy, business and finance\u003etourism and leisure\u003ehotel and accommodation"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8f7"},"category":"economy, business and finance\u003etourism and leisure\u003erestaurant and catering"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8f8"},"category":"economy, business and finance\u003etransport"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8f9"},"category":"economy, business and finance\u003etransport\u003erailway"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8fa"},"category":"economy, business and finance\u003etransport\u003eroad transport"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8fb"},"category":"education\u003efurther education"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8fc"},"category":"education\u003eschool\u003eelementary schools"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8fd"},"category":"environmental issue"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8fe"},"category":"environmental issue\u003econservation\u003eendangered species"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a8ff"},"category":"environmental issue\u003eenvironmental politics"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a900"},"category":"environmental issue\u003eenvironmental pollution"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a901"},"category":"environmental issue\u003erenewable energy"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a902"},"category":"environmental issue\u003ewaste"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a903"},"category":"environmental issue\u003ewater"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a904"},"category":"health"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a905"},"category":"health\u003edisease"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a906"},"category":"health\u003edisease\u003ealzheimer's disease"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a907"},"category":"health\u003edisease\u003eanimal diseases"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a908"},"category":"health\u003edisease\u003ecommunicable diseases"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a909"},"category":"health\u003edisease\u003eheart disease"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a90a"},"category":"health\u003edisease\u003eretrovirus"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a90b"},"category":"health\u003edisease\u003evirus diseases"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a90c"},"category":"health\u003eepidemic and plague"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a90d"},"category":"health\u003ehealth treatment"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a90e"},"category":"health\u003ehealth treatment\u003ediet"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a90f"},"category":"health\u003eillness"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a910"},"category":"health\u003eillness\u003emental illness"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a911"},"category":"health\u003eillness\u003eobesity"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a912"},"category":"health\u003emedical specialisation\u003egenetics"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a913"},"category":"health\u003emedical specialisation\u003epediatrics"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a914"},"category":"health\u003emedical specialisation\u003ereproduction"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a915"},"category":"health\u003emedicine"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a916"},"category":"health\u003epreventative medicine"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a917"},"category":"health\u003epreventative medicine\u003evaccines"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a918"},"category":"human interest"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a919"},"category":"human interest\u003eanimal"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a91a"},"category":"human interest\u003eaward and prize"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a91b"},"category":"human interest\u003emystery"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a91c"},"category":"human interest\u003epeople"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a91d"},"category":"human interest\u003epeople\u003ecelebrity"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a91e"},"category":"human interest\u003eplant"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a91f"},"category":"human interest\u003esociety\u003eceremony"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a920"},"category":"human interest\u003esociety\u003edeath"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a921"},"category":"human interest\u003esociety\u003efuneral"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a922"},"category":"lifestyle"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a923"},"category":"lifestyle and leisure"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a924"},"category":"lifestyle and leisure\u003eadventure"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a925"},"category":"lifestyle and leisure\u003egame"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a926"},"category":"lifestyle and leisure\u003egame\u003ego"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a927"},"category":"lifestyle and leisure\u003egaming and lottery"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a928"},"category":"lifestyle and leisure\u003egastronomy"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a929"},"category":"lifestyle and leisure\u003egastronomy\u003eorganic foods"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a92a"},"category":"lifestyle and leisure\u003ehobby\u003egardening"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a92b"},"category":"lifestyle and leisure\u003eleisure (general)"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a92c"},"category":"politics"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a92d"},"category":"politics\u003econstitution"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a92e"},"category":"politics\u003ediplomacy\u003einternational relations"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a92f"},"category":"politics\u003eelection"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a930"},"category":"politics\u003egovernment"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a931"},"category":"politics\u003egovernment\u003eexecutive (government)"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a932"},"category":"politics\u003egovernment\u003eheads of state"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a933"},"category":"politics\u003egovernment\u003eministers (government)"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a934"},"category":"politics\u003emigration"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a935"},"category":"politics\u003enuclear policy"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a936"},"category":"politics\u003eparliament"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a937"},"category":"politics\u003eparliament\u003elower house"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a938"},"category":"politics\u003eparliament\u003eupper house"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a939"},"category":"politics\u003eparties and movements"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a93a"},"category":"politics\u003epolitics (general)"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a93b"},"category":"politics\u003epolitics (general)\u003edemocracy"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a93c"},"category":"religion and belief"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a93d"},"category":"religion and belief\u003ebelief (faith)"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a93e"},"category":"religion and belief\u003ebuddhism"}
+{"_id":{"$oid":"5a4a54f1b0ac88236436a93f"},"category":"religion and belief\u003echristianity"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a940"},"category":"religion and belief\u003echristianity\u003ebaptist"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a941"},"category":"religion and belief\u003echristianity\u003elutheran"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a942"},"category":"religion and belief\u003echristianity\u003eorthodoxy"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a943"},"category":"religion and belief\u003echristianity\u003eprotestant"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a944"},"category":"religion and belief\u003ecult and sect"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a945"},"category":"religion and belief\u003eecumenism"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a946"},"category":"religion and belief\u003ehinduism"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a947"},"category":"religion and belief\u003eislam"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a948"},"category":"religion and belief\u003ejainism"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a949"},"category":"religion and belief\u003ejudaism"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a94a"},"category":"religion and belief\u003ephilosophy"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a94b"},"category":"religion and belief\u003ereligious event"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a94c"},"category":"religion and belief\u003ereligious event\u003eritual"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a94d"},"category":"religion and belief\u003ereligious festival or holiday\u003echristmas"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a94e"},"category":"religion and belief\u003ereligious leader"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a94f"},"category":"religion and belief\u003ereligious leader\u003epope"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a950"},"category":"religion and belief\u003ereligious text"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a951"},"category":"religion and belief\u003ereligious text\u003ebible"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a952"},"category":"religion and belief\u003ereligious text\u003equr'an"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a953"},"category":"religion and belief\u003ereligious text\u003etorah"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a954"},"category":"religion and belief\u003eshintoism"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a955"},"category":"religion and belief\u003esikhism"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a956"},"category":"religion and belief\u003etaoism"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a957"},"category":"religion and belief\u003evalues\u003ecorrupt practices"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a958"},"category":"religion and belief\u003evalues\u003eethics"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a959"},"category":"science and technology"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a95a"},"category":"science and technology\u003eapplied science"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a95b"},"category":"science and technology\u003eapplied science\u003echemistry"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a95c"},"category":"science and technology\u003eapplied science\u003ecosmology"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a95d"},"category":"science and technology\u003eapplied science\u003eparticle physics"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a95e"},"category":"science and technology\u003eapplied science\u003ephysics"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a95f"},"category":"science and technology\u003ebiotechnology"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a960"},"category":"science and technology\u003eelectronics"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a961"},"category":"science and technology\u003eengineering"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a962"},"category":"science and technology\u003ehuman science"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a963"},"category":"science and technology\u003ehuman science\u003eanthropology"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a964"},"category":"science and technology\u003ehuman science\u003ehistory"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a965"},"category":"science and technology\u003ehuman science\u003epsychology"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a966"},"category":"science and technology\u003eit/computer sciences"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a967"},"category":"science and technology\u003emathematics"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a968"},"category":"science and technology\u003enatural science"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a969"},"category":"science and technology\u003enatural science\u003eastronomy"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a96a"},"category":"science and technology\u003enatural science\u003ebiology"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a96b"},"category":"science and technology\u003enatural science\u003ebotany"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a96c"},"category":"science and technology\u003enatural science\u003egeography"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a96d"},"category":"science and technology\u003enatural science\u003egeology"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a96e"},"category":"science and technology\u003enatural science\u003epaleontology"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a96f"},"category":"science and technology\u003enatural science\u003ephysiology"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a970"},"category":"science and technology\u003enatural science\u003ezoology"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a971"},"category":"science and technology\u003ephilosophical science"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a972"},"category":"science and technology\u003escience (general)"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a973"},"category":"science and technology\u003etechnology (general)"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a974"},"category":"science and technology\u003etechnology (general)\u003elaser"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a975"},"category":"social issue"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a976"},"category":"social issue\u003eabusive behaviour"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a977"},"category":"social issue\u003edemographics"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a978"},"category":"social issue\u003edemographics\u003eemigrants"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a979"},"category":"social issue\u003edemographics\u003eimmigration"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a97a"},"category":"social issue\u003efamily"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a97b"},"category":"social issue\u003efamily\u003esex"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a97c"},"category":"sport"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a97d"},"category":"sport\u003eamerican football\u003e(us) national football league (nfl) (north american)"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a97e"},"category":"sport\u003ebasketball"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a97f"},"category":"sport\u003ebasketball\u003eprofessional - women general"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a980"},"category":"sport\u003eboxing\u003eheavyweight"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a981"},"category":"sport\u003eboxing\u003emiddleweight"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a982"},"category":"sport\u003ejudo"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a983"},"category":"sport\u003ejudo\u003emiddleweight"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a984"},"category":"sport\u003ekarate"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a985"},"category":"sport\u003ekarate\u003esparring"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a986"},"category":"sport\u003ekendo"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a987"},"category":"sport\u003emotor racing"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a988"},"category":"sport\u003emotor racing\u003ef3000"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a989"},"category":"sport\u003emotor racing\u003eformula one"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a98a"},"category":"sport\u003emotor racing\u003enascar"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a98b"},"category":"sport\u003erowing"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a98c"},"category":"sport\u003esoccer"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a98d"},"category":"sport\u003esoftball"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a98e"},"category":"sport\u003esports event"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a98f"},"category":"sport\u003esports event\u003egrand prix"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a990"},"category":"sport\u003esports event\u003esummer olympics"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a991"},"category":"sport\u003esports organisations"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a992"},"category":"sport\u003etennis"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a993"},"category":"sport\u003evolleyball"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a994"},"category":"sport\u003ewushu"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a995"},"category":"unrest, conflicts and war"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a996"},"category":"unrest, conflicts and war\u003earmed conflict"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a997"},"category":"unrest, conflicts and war\u003ecivil unrest\u003erevolutions"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a998"},"category":"unrest, conflicts and war\u003econflict (general)"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a999"},"category":"unrest, conflicts and war\u003emassacre"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a99a"},"category":"unrest, conflicts and war\u003emassacre\u003egenocide"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a99b"},"category":"unrest, conflicts and war\u003ewar"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a99c"},"category":"unrest, conflicts and war\u003ewar\u003ecivil war"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a99d"},"category":"unrest, conflicts and war\u003eweaponry"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a99e"},"category":"weather"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a99f"},"category":"weather\u003eforecast"}
+{"_id":{"$oid":"5a4a54f2b0ac88236436a9a0"},"category":"weather\u003ewarning"}
