@@ -3,6 +3,6 @@ Collection name should be kept same as the file name.
 
 Command to import a collection from a file into the database:
 
-mongoimport --db mongotest --collection keywords --file keywords.json
+mongoimport --db watchdocs --collection keywords --file keywords.json
 
-where _mongotest_ is the database, _keywords_ is the collection we want to create from the file _keywords.json_
+where _watchdocs_ is the database, _keywords_ is the collection we want to create from the file _keywords.json_
